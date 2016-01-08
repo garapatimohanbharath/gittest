@@ -1,2 +1,4 @@
 Hello git...
 git is used for version control system for software development
+git is a distributed revision control system
+
